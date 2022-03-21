@@ -1,0 +1,410 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+
+
+
+
+.hvr li a:hover {
+  background-color: orange;
+  color: white;
+   
+}
+
+
+
+.telugu{background-image: url('images/vs.jpg');
+background-repeat: no-repeat;
+background-size: 100% 100%;
+height: 100vh!important;
+margin-top: 50px!important;
+}
+
+
+
+
+/*.telugu{
+	background-image: url(images/vs.jfif);
+	background-size: cover!important;
+	 
+	background-repeat: no-repeat;
+	height: 100vh!important;
+	width: 100%!important;
+	 object-fit: cover!important;
+
+}*/
+
+.telugu1{
+	 font-size: 12px;
+	 color: white;
+	 margin-top: 15px; 
+	font-family: 'Pacifico', cursive;
+}
+
+.telugu30{
+	 border-radius: 4px;
+	border: 2px solid black;
+	 
+}
+
+.telugu40{
+   border-radius: 4px;
+  border: 2px solid black;
+   
+}
+
+.telugu50{
+   border-radius: 4px;
+  border: 2px solid black;
+   
+}
+.telugu60{
+   border-radius: 4px;
+  border: 2px solid black;
+   
+}
+.telugu70{
+   border-radius: 4px;
+  border: 2px solid black;
+   
+}
+.tag1{
+	 border-radius: 4px;
+	border: 2px solid black;
+	 
+}
+.telugu4{
+	 
+	 padding-top: 10px;
+
+
+}
+.tea{
+	 border-style: none;
+	padding: 15px;
+	margin-top: 15px;
+}
+
+.tea1{
+	font-size: 20px;
+}
+
+.telugu5{
+	 border-radius: 5px;
+	border: 2px solid white;
+	 
+}
+.tea2{
+	list-style-type: none;
+	color: white;
+}
+.tea3{
+	border-radius: 50px;
+
+}
+
+.tea4{
+	width: 100%;
+ transition: all 1s linear;
+ height: 200px;
+ overflow: hidden;
+}
+
+
+.tea4a{
+	overflow: hidden;
+}
+
+ .tea5{
+ 	border-radius: 50%;
+ 	width: 50%;
+ 	border: 2px solid orange;
+
+
+ }
+.tea6{
+	display: inline;
+	position: relative;
+}
+
+.path{
+  font-size: 15px;
+}
+
+
+
+
+
+
+
+.invite_brig{
+
+  border-radius: 5px;
+  border: none!important;
+  background-color: orange;
+  font-size: 15px;
+  font-weight: 500;
+  color: #fff;
+}
+
+
+.invite_brig:hover{
+
+  background: #dc3545;
+}
+
+
+
+
+
+
+
+
+
+.telugu30:hover {
+	color: white;
+	background-color: orange;
+	border-style: none;
+}
+.telugu40:hover {
+  color: white;
+  background-color: orange;
+  border-style: none;
+}
+.telugu50:hover {
+  color: white;
+  background-color: orange;
+  border-style: none;
+}
+.telugu60:hover {
+  color: white;
+  background-color: orange;
+  border-style: none;
+}
+.telugu70:hover {
+  color: white;
+  background-color: orange;
+  border-style: none;
+}
+.tag1:hover {
+	color: white;
+	background-color: orange;
+	border-style: none;
+}
+
+
+.tea4:hover {
+	transform: scale(1.1);
+	 
+}
+
+/*.paper:hover .paper-content {display: block;}. 
+
+.paper:hover{
+  background-color: green;
+}
+
+
+.copper:hover .copper-content {display: block;}. 
+
+.copper:hover{
+  background-color: green;
+}
+
+.topper:hover .topper-content {display: block;}. 
+
+.topper:hover{
+  background-color: green;
+}
+*/
+
+
+
+
+/* Clients */
+.clients-logo {
+  margin: 0 0 30px;
+  border: 1px solid #dadada;
+  min-height: 105px;
+  padding: 0 30px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -moz-box-orient: vertical;
+  -moz-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -moz-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -moz-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+}
+.clients-logo img {
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: grayscale(100%);
+  -webkit-filter: gray;
+  filter: gray;
+}
+
+
+
+
+#back-to-top {
+  position: fixed;
+  right: 40px;
+  top: auto;
+  z-index: 10;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  display: none;
+}
+#back-to-top.affix {
+  bottom: 25px;
+}
+#back-to-top .btn.btn-primary {
+  font-size: 18px;
+  padding: 6px 15px;
+  width: 44px;
+  height: 44px;
+  line-height: 30px;
+  border-radius: 100%;
+}
+
+
+
+
+/*Carousel */
+.testimonialCard {
+  margin: 0;
+}
+.carouselCard {
+  position: relative;
+  /* border: solid 1px #212121; */
+  /* box-shadow:1px  #616161; */
+  padding: 45px 50px 25px 60px;
+  /* margin-top: 200px; */
+  background-color: white;
+  /* border-radius: 10px; */
+  border: 1px solid grey;
+  /* box-shadow:2px 2px 2px 2px grey; */
+  color: #252628;
+}
+
+.post-txt {
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.quote-img {
+  
+ 
+  width: 100%!important;
+  height: 100%!important;
+}
+
+.nice-img {
+  width: 20px;
+  height: 25px;
+  margin-bottom: 7px;
+}
+
+ 
+.fit-image {
+  width: 100%;
+  object-fit: cover;
+}
+
+ 
+.testimonial {
+  height: 400px;
+}
+.testimonialIndex {
+  /* background: url("images/teambg.jpg"); */
+  background: #f5f5f5;
+  padding: 5% 0;
+}
+.blogImg img {
+  height: 260px;
+  width: 220px;
+}
+.plusIcon {
+  background: #d83030;
+  border-radius: 50%;
+  font-size: 12px;
+  padding: 5px;
+  color: white;
+}
+.bannerSectionAboutUs,
+.bannerSectionBlog {
+  background-image: url("images/banner.jpg");
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+}
+
+.tap{
+  font-size: 10px;
+}
+
+@media (max-width: 500px){
+
+}
+
+
+
+@media (max-width: 1400px){
+  .tap{
+     padding-top: 650px!important;
+     font-size: 35px;
+     line-height: 50px;
+  }
+
+  .invite_brig{
+    font-size: 24px;
+  }
+
+  .fa-telegram{
+    font-size: 30px!important;
+  }
+}
+
+@media (max-width: 1024px){
+  .tap{
+     padding-top: 850px!important;
+     font-size: 30px;
+     line-height: 50px;
+  }
+
+  .invite_brig{
+    font-size: 24px;
+  }
+
+  .fa-telegram{
+    font-size: 30px!important;
+  }
+}
+
+
+
+ 
